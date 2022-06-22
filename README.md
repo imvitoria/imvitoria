@@ -1,6 +1,6 @@
 - oi, sou @imvitoria 
-- eu me interesso por por politica, moda gastronomia e mundo pop
-- estou estudando HTML, CSS
+- eu me interesso por por politica, moda, gastronomia e mundo pop.
+- estou estudando HTML, CSS.
 - voce pode me encontrar em maria.osorio.silva@escola.pr.gov.br
 
 
